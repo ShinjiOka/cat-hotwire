@@ -147,3 +147,7 @@ ajax
 
     ・rotes.rb
         ・redirect("/cats")の書き方のとこ x
+
+    ・index.html.erb
+        ・"cats-list"は何と関連があるか x
+        (idを付与することでページネーションの挙動がうまくいく。id名は何にしてもうまく動いた。)
